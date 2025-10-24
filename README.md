@@ -1,6 +1,7 @@
 # TP6 - Colecciones y Sistema de Stock
-# Alumno: Marcelo Gomez Armoa.
-# Comisión: 8
+
+## Alumno: Marcelo Gomez Armoa.
+## Comisión: 8
 
 ## Descripción General
 Este trabajo práctico implementa tres sistemas diferentes utilizando colecciones dinámicas (ArrayList) y conceptos avanzados de programación orientada a objetos en Java.
